@@ -10,7 +10,7 @@ function [accuracy, y_predicted] = owarim_fknn(xtrain, ytrain, xtest, ytest, k_v
 %   xtest:  test data
 %   ytest:  test classes
 %   k_values: number of nearest neighbors
-%   alpha: parameter value of thr RIM quantifier
+%   alpha: parameter value of the RIM quantifier
 
 % OUTPUTs:
 % accuracy: classification accuracy over test data set
