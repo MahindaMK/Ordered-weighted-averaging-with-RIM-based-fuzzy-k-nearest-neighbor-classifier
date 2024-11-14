@@ -1,4 +1,4 @@
-# Ordered weighted averaging with RIM based fuzzy k nearest neighbor classifier
+# Ordered weighted averaging with RIM based fuzzy k nearest neighbor (OWARIM-FKNN) classifier 
 This repository offers the code for $${\color{blue} Ordered \space weighted \space averaging \space with \space regular \space increasing \space monotone-based \space fuzzy \space k-nearest \space} $$ $${\color{blue} neighbor \space (OWARIM-FKNN) \space classifier \space}$$
 
 **Introduction:** <br/>
